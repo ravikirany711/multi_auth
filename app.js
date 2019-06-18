@@ -9,6 +9,7 @@ const keys = require('./config/keys')
 const cookieSession = require('cookie-session')
 const passport = require('passport')
 
+//something just like this
 
 //Home route
 app.get('/', (req, res) => {
